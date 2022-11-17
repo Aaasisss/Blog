@@ -1,0 +1,15 @@
+.main {
+  width: 100%;
+  margin: 15px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.main:hover {
+}
+
+.image {
+  border-radius: 10px;
+  height: 200px;
+  overflow: hidden;
+}
